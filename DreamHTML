@@ -1,0 +1,25 @@
+TASK 1
+<html>
+    <body>
+        <h1> This is my website heading.</h1>
+        <p> This is a paragraph underneath my heading.</p> 
+
+        <section>
+            This is a smaller heading of my website in a section. 
+        </section>
+
+    <footer> 
+        <!-- This is a comment, to remind me of something -->
+    </footer> 
+</html>
+ 
+
+TASK 2
+<head>
+    <link rel=“stylesheet” href =“style.css”>
+</head>
+
+ 
+TASK 3
+h1{color:red}
+p{font-style:italic}
